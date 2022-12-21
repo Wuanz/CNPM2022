@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HoaMaiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BAIHOC">
+    <Key>
+      <PropertyRef Name="MABAIHOC" />
+    </Key>
+    <Property Name="MABAIHOC" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENBAIHOC" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="MAKHOI" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="SOTIET" Type="Int32" />
+    <Property Name="YEUCAUVEDUNGCU" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="MAMON" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="KHOI" Relationship="Self.FK_BAIHOC_KHOI" FromRole="BAIHOC" ToRole="KHOI" />
+    <NavigationProperty Name="MONHOC" Relationship="Self.FK_BAIHOC_MONHOC" FromRole="BAIHOC" ToRole="MONHOC" />
+    <NavigationProperty Name="THOIKHOABIEUx" Relationship="Self.FK_THOIKHOABIEU_BAIHOC" FromRole="BAIHOC" ToRole="THOIKHOABIEU" />
+  </EntityType>
+  <EntityType Name="HOCSINH">
+    <Key>
+      <PropertyRef Name="MAHOCSINH" />
+    </Key>
+    <Property Name="MAHOCSINH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENHOCSINH" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="DIEM" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KHOI">
+    <Key>
+      <PropertyRef Name="MAKHOI" />
+    </Key>
+    <Property Name="MAKHOI" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENKHOI" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="GHICHU" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BAIHOCs" Relationship="Self.FK_BAIHOC_KHOI" FromRole="KHOI" ToRole="BAIHOC" />
+  </EntityType>
+  <EntityType Name="LOP">
+    <Key>
+      <PropertyRef Name="MALOP" />
+    </Key>
+    <Property Name="MALOP" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENLOP" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="GIAOVIENPHUTRACH" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="THOIKHOABIEUx" Relationship="Self.FK_THOIKHOABIEU_LOP" FromRole="LOP" ToRole="THOIKHOABIEU" />
+  </EntityType>
+  <EntityType Name="MONHOC">
+    <Key>
+      <PropertyRef Name="MAMON" />
+    </Key>
+    <Property Name="MAMON" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENMON" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BAIHOCs" Relationship="Self.FK_BAIHOC_MONHOC" FromRole="MONHOC" ToRole="BAIHOC" />
+  </EntityType>
+  <EntityType Name="THOIKHOABIEU">
+    <Key>
+      <PropertyRef Name="MABAIHOC" />
+      <PropertyRef Name="MALOP" />
+    </Key>
+    <Property Name="MABAIHOC" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MALOP" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="THU" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SOTHUTUTIET" Type="Int32" />
+    <Property Name="NGAY" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="BAIHOC" Relationship="Self.FK_THOIKHOABIEU_BAIHOC" FromRole="THOIKHOABIEU" ToRole="BAIHOC" />
+    <NavigationProperty Name="LOP" Relationship="Self.FK_THOIKHOABIEU_LOP" FromRole="THOIKHOABIEU" ToRole="LOP" />
+  </EntityType>
+  <Association Name="FK_BAIHOC_KHOI">
+    <End Role="KHOI" Type="Self.KHOI" Multiplicity="1" />
+    <End Role="BAIHOC" Type="Self.BAIHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHOI">
+        <PropertyRef Name="MAKHOI" />
+      </Principal>
+      <Dependent Role="BAIHOC">
+        <PropertyRef Name="MAKHOI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BAIHOC_MONHOC">
+    <End Role="MONHOC" Type="Self.MONHOC" Multiplicity="1" />
+    <End Role="BAIHOC" Type="Self.BAIHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MONHOC">
+        <PropertyRef Name="MAMON" />
+      </Principal>
+      <Dependent Role="BAIHOC">
+        <PropertyRef Name="MAMON" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THOIKHOABIEU_BAIHOC">
+    <End Role="BAIHOC" Type="Self.BAIHOC" Multiplicity="1" />
+    <End Role="THOIKHOABIEU" Type="Self.THOIKHOABIEU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BAIHOC">
+        <PropertyRef Name="MABAIHOC" />
+      </Principal>
+      <Dependent Role="THOIKHOABIEU">
+        <PropertyRef Name="MABAIHOC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THOIKHOABIEU_LOP">
+    <End Role="LOP" Type="Self.LOP" Multiplicity="1" />
+    <End Role="THOIKHOABIEU" Type="Self.THOIKHOABIEU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOP">
+        <PropertyRef Name="MALOP" />
+      </Principal>
+      <Dependent Role="THOIKHOABIEU">
+        <PropertyRef Name="MALOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HoaMaiEntities4" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BAIHOCs" EntityType="Self.BAIHOC" />
+    <EntitySet Name="HOCSINHs" EntityType="Self.HOCSINH" />
+    <EntitySet Name="KHOIs" EntityType="Self.KHOI" />
+    <EntitySet Name="LOPs" EntityType="Self.LOP" />
+    <EntitySet Name="MONHOCs" EntityType="Self.MONHOC" />
+    <EntitySet Name="THOIKHOABIEUx" EntityType="Self.THOIKHOABIEU" />
+    <AssociationSet Name="FK_BAIHOC_KHOI" Association="Self.FK_BAIHOC_KHOI">
+      <End Role="KHOI" EntitySet="KHOIs" />
+      <End Role="BAIHOC" EntitySet="BAIHOCs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BAIHOC_MONHOC" Association="Self.FK_BAIHOC_MONHOC">
+      <End Role="MONHOC" EntitySet="MONHOCs" />
+      <End Role="BAIHOC" EntitySet="BAIHOCs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THOIKHOABIEU_BAIHOC" Association="Self.FK_THOIKHOABIEU_BAIHOC">
+      <End Role="BAIHOC" EntitySet="BAIHOCs" />
+      <End Role="THOIKHOABIEU" EntitySet="THOIKHOABIEUx" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THOIKHOABIEU_LOP" Association="Self.FK_THOIKHOABIEU_LOP">
+      <End Role="LOP" EntitySet="LOPs" />
+      <End Role="THOIKHOABIEU" EntitySet="THOIKHOABIEUx" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

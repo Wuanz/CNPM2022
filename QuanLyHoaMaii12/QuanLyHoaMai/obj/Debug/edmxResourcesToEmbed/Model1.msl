@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HoaMaiModelStoreContainer" CdmEntityContainer="HoaMaiEntities4">
+    <EntitySetMapping Name="BAIHOCs">
+      <EntityTypeMapping TypeName="HoaMaiModel.BAIHOC">
+        <MappingFragment StoreEntitySet="BAIHOC">
+          <ScalarProperty Name="MABAIHOC" ColumnName="MABAIHOC" />
+          <ScalarProperty Name="TENBAIHOC" ColumnName="TENBAIHOC" />
+          <ScalarProperty Name="MAKHOI" ColumnName="MAKHOI" />
+          <ScalarProperty Name="SOTIET" ColumnName="SOTIET" />
+          <ScalarProperty Name="YEUCAUVEDUNGCU" ColumnName="YEUCAUVEDUNGCU" />
+          <ScalarProperty Name="MAMON" ColumnName="MAMON" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOCSINHs">
+      <EntityTypeMapping TypeName="HoaMaiModel.HOCSINH">
+        <MappingFragment StoreEntitySet="HOCSINH">
+          <ScalarProperty Name="MAHOCSINH" ColumnName="MAHOCSINH" />
+          <ScalarProperty Name="TENHOCSINH" ColumnName="TENHOCSINH" />
+          <ScalarProperty Name="DIEM" ColumnName="DIEM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHOIs">
+      <EntityTypeMapping TypeName="HoaMaiModel.KHOI">
+        <MappingFragment StoreEntitySet="KHOI">
+          <ScalarProperty Name="MAKHOI" ColumnName="MAKHOI" />
+          <ScalarProperty Name="TENKHOI" ColumnName="TENKHOI" />
+          <ScalarProperty Name="GHICHU" ColumnName="GHICHU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOPs">
+      <EntityTypeMapping TypeName="HoaMaiModel.LOP">
+        <MappingFragment StoreEntitySet="LOP">
+          <ScalarProperty Name="MALOP" ColumnName="MALOP" />
+          <ScalarProperty Name="TENLOP" ColumnName="TENLOP" />
+          <ScalarProperty Name="GIAOVIENPHUTRACH" ColumnName="GIAOVIENPHUTRACH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MONHOCs">
+      <EntityTypeMapping TypeName="HoaMaiModel.MONHOC">
+        <MappingFragment StoreEntitySet="MONHOC">
+          <ScalarProperty Name="MAMON" ColumnName="MAMON" />
+          <ScalarProperty Name="TENMON" ColumnName="TENMON" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="THOIKHOABIEUx">
+      <EntityTypeMapping TypeName="HoaMaiModel.THOIKHOABIEU">
+        <MappingFragment StoreEntitySet="THOIKHOABIEU">
+          <ScalarProperty Name="MABAIHOC" ColumnName="MABAIHOC" />
+          <ScalarProperty Name="MALOP" ColumnName="MALOP" />
+          <ScalarProperty Name="THU" ColumnName="THU" />
+          <ScalarProperty Name="SOTHUTUTIET" ColumnName="SOTHUTUTIET" />
+          <ScalarProperty Name="NGAY" ColumnName="NGAY" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
