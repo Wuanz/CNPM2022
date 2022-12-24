@@ -1,0 +1,1390 @@
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Form1.resources
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\QuanLyHoaMai\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\admin\Downloads\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\5_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+D:\cnpm\19_103_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\21_10_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+D:\cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\23_10cnpm\21_10_cnpm_2206\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\24_10_2307_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\admin\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMenu.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UI.frmKhoi.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+C:\Users\Administrator\Downloads\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.1.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+D:\CNPM-HK1-2022\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\MY PC\Downloads\21_11_cnpm\16_10_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.1.Core.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.1.Core.xml
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+D:\cnpm\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\22_11\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\MY PC\Downloads\22_11_1552\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.ReportDev.resources
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.CodeParser.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Images.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.CodeCompletion.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.CodeCompletion.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+D:\cnpm\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.CodeCompletion.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.CodeCompletion.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.ReportDev.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\Wuan & Shu\Downloads\22112040\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.ReportDev.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Administrator\Downloads\12_11_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmDangnhap.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmHocsinh1.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.ReportDev.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+C:\Users\Administrator\Downloads\16_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRp.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmDangnhap.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmHocsinh1.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMain.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.FrmKhoi.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRp.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.ReportDev.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.UserControl1.resources
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+D:\CNPM-HK1-2022\17_12_2022_cnpm\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmDangnhap.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmHocsinh1.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRp.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.ReportDev.resources
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Data.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.Xpo.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraBars.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.AssemblyReference.cache
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmDangnhap.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmHocsinh1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRp.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.ReportDev.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+E:\HAN\Software Engineer\02-Software Engineering\Lab\06\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe.config
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.exe
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\QuanLyHoaMai.pdb
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.dll
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.dll
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\bin\Debug\EntityFramework.SqlServer.xml
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmBaihoc1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmDangnhap.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmHocsinh1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmKhoi1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmLop1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmMonhoc1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRB.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmRp.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmThoikhoabieu1.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmTTphanmem.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.Properties.Resources.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.ReportDev.resources
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.GenerateResource.cache
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe.licenses
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CoreCompileInputs.cache
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.csproj.CopyComplete
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.exe
+E:\HAN\Software Engineer\02-Software Engineering\Lab\05\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.pdb
+C:\Users\Administrator\Downloads\51900544_51900408\QuanLyHoaMaii12\QuanLyHoaMai\obj\Debug\QuanLyHoaMai.frmReport.resources

@@ -1,0 +1,134 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace QuanLyHoaMai
+{
+    public partial class frmThoikhoabieu : Form
+    {
+        HoaMaiEntities3 data = new HoaMaiEntities3();
+        public frmThoikhoabieu()
+        {
+            InitializeComponent();
+        }
+        private void frmThoikhoabieu_Load(object sender, EventArgs e)
+        {
+            getData();
+            getThoikhoabieu();
+            init();
+        }
+
+        void getData()
+        {
+
+            List<THOIKHOABIEU> lst = data.THOIKHOABIEUx.ToList();
+            int i = 0;
+            var v = from t in lst
+                    select new
+                    {
+                        No = ++i,
+                       
+                        cbMalop = t.LOP.MALOP, //1
+                       
+                        Thu = t.THU,//3
+                        Sothututiet = t.SOTHUTUTIET,//4
+                        Ngay = t.NGAY//5
+
+                    };
+            dgThoikhoabieu.DataSource = v.ToList();
+        }
+        void getThoikhoabieu()
+        {
+
+            data = new HoaMaiEntities3();
+
+            cbMabaihoc.DataSource = data.THOIKHOABIEUx.ToList();
+            cbMalop.DataSource = data.LOPs.ToList();
+
+
+
+        }
+        void init()
+        {
+            txtNgay.Format = DateTimePickerFormat.Custom;
+            txtNgay.CustomFormat = "dd/MM/yyyy";
+            cbMabaihoc.DisplayMember = "Tenbaihoc";
+            cbMabaihoc.ValueMember = "Mabaihoc";
+            cbMalop.DisplayMember = "Tenlop";
+            cbMalop.ValueMember = "Malop";
+
+        }
+        private void menuSave_Click_Click(object sender, EventArgs e)
+        {
+            var t = new THOIKHOABIEU
+            {
+
+                MABAIHOC = cbMabaihoc.SelectedValue.ToString(),
+                MALOP = cbMalop.SelectedValue.ToString(),
+                SOTHUTUTIET = int.Parse(txtSTT.Text.Trim()),
+                NGAY = DateTime.Parse(txtNgay.Value.ToString("dd/MM/yyyy")),
+                THU = txtThu.Text.Trim()
+
+
+
+
+            };
+            data.THOIKHOABIEUx.Add(t);
+            data.SaveChanges();
+            getData();
+        }
+        private void dgThoikhoabieu_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+            if (e.RowIndex >= 0)
+            {
+                DataGridViewRow r = dgThoikhoabieu.Rows[e.RowIndex];
+       
+                cbMabaihoc.SelectedIndex = cbMabaihoc.FindStringExact(r.Cells[1].Value.ToString());
+           
+                cbMalop.SelectedIndex = cbMalop.FindStringExact(r.Cells[2].Value.ToString());
+                txtThu.Text = r.Cells[3].Value.ToString();
+                txtSTT.Text = r.Cells[4].Value.ToString();
+                txtNgay.Text = DateTime.Parse(r.Cells[5].Value.ToString()).ToString();
+
+
+
+                // txtMabaihoc.ReadOnly = true;
+                menuDelete_Click.Enabled = true;
+
+            }
+        }
+
+        private void menuDelete_Click_Click(object sender, EventArgs e)
+        {
+            data = new HoaMaiEntities3();
+            if (MessageBox.Show("Are you sure?", "Message", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                var s = (from t in data.THOIKHOABIEUx
+                         where t.MABAIHOC == cbMabaihoc.Text
+                         select t).SingleOrDefault();
+
+                data.THOIKHOABIEUx.Remove(s);
+                data.SaveChanges();
+                getData();
+            }
+        }
+
+        private void menuCancel_Click_Click(object sender, EventArgs e)
+        {
+
+            menuDelete_Click.Enabled = false;
+           
+            txtSTT.Clear();
+            txtThu.Clear();
+        }
+
+      
+    }
+}

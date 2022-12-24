@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HoaMaiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BAIHOC">
+    <Key>
+      <PropertyRef Name="MABAIHOC" />
+    </Key>
+    <Property Name="MABAIHOC" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="TENBAIHOC" Type="nvarchar" MaxLength="40" />
+    <Property Name="SOTIET" Type="int" />
+    <Property Name="YEUCAUVEDUNGCU" Type="nvarchar" MaxLength="100" />
+    <Property Name="MAKHOI" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="MAMON" Type="char" MaxLength="4" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HOCSINH">
+    <Key>
+      <PropertyRef Name="MAHOCSINH" />
+    </Key>
+    <Property Name="MAHOCSINH" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TENHOCSINH" Type="nvarchar" MaxLength="30" />
+    <Property Name="DIEM" Type="int" />
+  </EntityType>
+  <EntityType Name="KHOI">
+    <Key>
+      <PropertyRef Name="MAKHOI" />
+    </Key>
+    <Property Name="MAKHOI" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="TENKHOI" Type="nvarchar" MaxLength="10" />
+    <Property Name="GHICHU" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="LOP">
+    <Key>
+      <PropertyRef Name="MALOP" />
+    </Key>
+    <Property Name="MALOP" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="TENLOP" Type="nvarchar" MaxLength="10" />
+    <Property Name="GIAOVIENPHUTRACH" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="MONHOC">
+    <Key>
+      <PropertyRef Name="MAMON" />
+    </Key>
+    <Property Name="MAMON" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="TENMON" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'HoaMai.dbo.THOIKHOABIEU' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="THOIKHOABIEU">
+    <Key>
+      <PropertyRef Name="MABAIHOC" />
+      <PropertyRef Name="MALOP" />
+    </Key>
+    <Property Name="MABAIHOC" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="MALOP" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="THU" Type="nvarchar" MaxLength="50" />
+    <Property Name="SOTHUTUTIET" Type="int" />
+    <Property Name="NGAY" Type="date" />
+  </EntityType>
+  <Association Name="FK_BAIHOC_KHOI">
+    <End Role="KHOI" Type="Self.KHOI" Multiplicity="1" />
+    <End Role="BAIHOC" Type="Self.BAIHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHOI">
+        <PropertyRef Name="MAKHOI" />
+      </Principal>
+      <Dependent Role="BAIHOC">
+        <PropertyRef Name="MAKHOI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BAIHOC_MONHOC">
+    <End Role="MONHOC" Type="Self.MONHOC" Multiplicity="1" />
+    <End Role="BAIHOC" Type="Self.BAIHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MONHOC">
+        <PropertyRef Name="MAMON" />
+      </Principal>
+      <Dependent Role="BAIHOC">
+        <PropertyRef Name="MAMON" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THOIKHOABIEU_BAIHOC">
+    <End Role="BAIHOC" Type="Self.BAIHOC" Multiplicity="1" />
+    <End Role="THOIKHOABIEU" Type="Self.THOIKHOABIEU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BAIHOC">
+        <PropertyRef Name="MABAIHOC" />
+      </Principal>
+      <Dependent Role="THOIKHOABIEU">
+        <PropertyRef Name="MABAIHOC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THOIKHOABIEU_LOP">
+    <End Role="LOP" Type="Self.LOP" Multiplicity="1" />
+    <End Role="THOIKHOABIEU" Type="Self.THOIKHOABIEU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOP">
+        <PropertyRef Name="MALOP" />
+      </Principal>
+      <Dependent Role="THOIKHOABIEU">
+        <PropertyRef Name="MALOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HoaMaiModelStoreContainer">
+    <EntitySet Name="BAIHOC" EntityType="Self.BAIHOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HOCSINH" EntityType="Self.HOCSINH" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KHOI" EntityType="Self.KHOI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LOP" EntityType="Self.LOP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MONHOC" EntityType="Self.MONHOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="THOIKHOABIEU" EntityType="Self.THOIKHOABIEU" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [THOIKHOABIEU].[MABAIHOC] AS [MABAIHOC], 
+    [THOIKHOABIEU].[MALOP] AS [MALOP], 
+    [THOIKHOABIEU].[THU] AS [THU], 
+    [THOIKHOABIEU].[SOTHUTUTIET] AS [SOTHUTUTIET], 
+    [THOIKHOABIEU].[NGAY] AS [NGAY]
+    FROM [dbo].[THOIKHOABIEU] AS [THOIKHOABIEU]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_BAIHOC_KHOI" Association="Self.FK_BAIHOC_KHOI">
+      <End Role="KHOI" EntitySet="KHOI" />
+      <End Role="BAIHOC" EntitySet="BAIHOC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BAIHOC_MONHOC" Association="Self.FK_BAIHOC_MONHOC">
+      <End Role="MONHOC" EntitySet="MONHOC" />
+      <End Role="BAIHOC" EntitySet="BAIHOC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THOIKHOABIEU_BAIHOC" Association="Self.FK_THOIKHOABIEU_BAIHOC">
+      <End Role="BAIHOC" EntitySet="BAIHOC" />
+      <End Role="THOIKHOABIEU" EntitySet="THOIKHOABIEU" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THOIKHOABIEU_LOP" Association="Self.FK_THOIKHOABIEU_LOP">
+      <End Role="LOP" EntitySet="LOP" />
+      <End Role="THOIKHOABIEU" EntitySet="THOIKHOABIEU" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
